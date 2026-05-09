@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0474-ones-and-zeroes) |
+| [1763-longest-nice-substring](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/1763-longest-nice-substring) |
 ## String Matching
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0078-subsets) |
+| [1763-longest-nice-substring](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/1763-longest-nice-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0973-k-closest-points-to-origin](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1763-longest-nice-substring](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/1763-longest-nice-substring) |
 ## Geometry
 |  |
 | ------- |
@@ -105,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Hash Table
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/1763-longest-nice-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
