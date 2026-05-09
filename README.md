@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0721-accounts-merge) |
+| [0841-keys-and-rooms](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0841-keys-and-rooms) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 ## Math
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0210-course-schedule-ii) |
 | [0721-accounts-merge](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0721-accounts-merge) |
+| [0841-keys-and-rooms](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0841-keys-and-rooms) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 ## Union-Find
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0210-course-schedule-ii) |
+| [0841-keys-and-rooms](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0841-keys-and-rooms) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 ## Topological Sort
