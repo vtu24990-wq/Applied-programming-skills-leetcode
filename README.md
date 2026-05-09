@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0049-group-anagrams) |
 | [0459-repeated-substring-pattern](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0474-ones-and-zeroes) |
 | [1763-longest-nice-substring](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/1763-longest-nice-substring) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0198-house-robber) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0169-majority-element) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0973-k-closest-points-to-origin](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0169-majority-element) |
 | [1763-longest-nice-substring](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
