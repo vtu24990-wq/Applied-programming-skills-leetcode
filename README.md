@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Combinatorics
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0202-happy-number) |
 | [0929-unique-email-addresses](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0929-unique-email-addresses) |
 | [1763-longest-nice-substring](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
