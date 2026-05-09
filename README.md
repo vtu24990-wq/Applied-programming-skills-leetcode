@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0200-number-of-islands) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0322-coin-change) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0322-coin-change) |
 | [0721-accounts-merge](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0721-accounts-merge) |
 ## Math
@@ -147,9 +149,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0721-accounts-merge) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0721-accounts-merge) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
