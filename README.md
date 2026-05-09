@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0198-house-robber) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0322-coin-change) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0474-ones-and-zeroes) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0973-k-closest-points-to-origin](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -83,4 +85,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Binary Search
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
