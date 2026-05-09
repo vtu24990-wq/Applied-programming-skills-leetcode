@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0721-accounts-merge) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 ## Math
 |  |
 | ------- |
@@ -164,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0542-01-matrix) |
+## Graph Theory
+|  |
+| ------- |
+| [1129-shortest-path-with-alternating-colors](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 <!---LeetCode Topics End-->
