@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0721-accounts-merge](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0721-accounts-merge) |
 | [0841-keys-and-rooms](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0841-keys-and-rooms) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0994-rotting-oranges) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0202-happy-number) |
 | [0721-accounts-merge](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0929-unique-email-addresses) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1763-longest-nice-substring](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
 |  |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0721-accounts-merge) |
 | [0841-keys-and-rooms](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0841-keys-and-rooms) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 ## Union-Find
 |  |
@@ -194,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0210-course-schedule-ii) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+## Tree
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
