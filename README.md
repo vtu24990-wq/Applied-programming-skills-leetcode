@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0049-group-anagrams) |
 | [0459-repeated-substring-pattern](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0474-ones-and-zeroes) |
+| [0929-unique-email-addresses](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0929-unique-email-addresses) |
 | [1763-longest-nice-substring](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/1763-longest-nice-substring) |
 ## String Matching
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0474-ones-and-zeroes) |
 | [0746-min-cost-climbing-stairs](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0929-unique-email-addresses](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0929-unique-email-addresses) |
 | [0973-k-closest-points-to-origin](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0169-majority-element) |
+| [0929-unique-email-addresses](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0929-unique-email-addresses) |
 | [1763-longest-nice-substring](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
 |  |
