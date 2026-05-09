@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0322-coin-change) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0474-ones-and-zeroes) |
+| [0746-min-cost-climbing-stairs](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0062-unique-paths) |
 | [0322-coin-change](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0474-ones-and-zeroes) |
+| [0746-min-cost-climbing-stairs](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Breadth-First Search
 |  |
 | ------- |
