@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0474-ones-and-zeroes) |
 | [0746-min-cost-climbing-stairs](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0973-k-closest-points-to-origin](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0973-k-closest-points-to-origin](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0070-climbing-stairs) |
+| [0973-k-closest-points-to-origin](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Combinatorics
 |  |
 | ------- |
@@ -64,4 +67,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
