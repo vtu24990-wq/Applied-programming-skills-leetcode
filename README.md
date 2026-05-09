@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0049-group-anagrams) |
 | [0459-repeated-substring-pattern](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0474-ones-and-zeroes) |
+| [0721-accounts-merge](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0929-unique-email-addresses) |
 | [1763-longest-nice-substring](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/1763-longest-nice-substring) |
 ## String Matching
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0322-coin-change) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0474-ones-and-zeroes) |
+| [0721-accounts-merge](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0721-accounts-merge) |
 | [0746-min-cost-climbing-stairs](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0929-unique-email-addresses](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0929-unique-email-addresses) |
 | [0973-k-closest-points-to-origin](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0169-majority-element) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0721-accounts-merge](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0322-coin-change) |
+| [0721-accounts-merge](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0721-accounts-merge) |
 ## Math
 |  |
 | ------- |
@@ -125,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0202-happy-number) |
+| [0721-accounts-merge](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0929-unique-email-addresses) |
 | [1763-longest-nice-substring](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
@@ -139,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0202-happy-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0721-accounts-merge) |
+## Union-Find
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
