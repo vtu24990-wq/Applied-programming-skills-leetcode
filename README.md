@@ -39,10 +39,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0062-unique-paths) |
 | [0322-coin-change](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0474-ones-and-zeroes) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0322-coin-change) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
