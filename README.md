@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0078-subsets) |
+| [0169-majority-element](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0198-house-robber) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0322-coin-change) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0169-majority-element) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0973-k-closest-points-to-origin](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0190-reverse-bits) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0973-k-closest-points-to-origin](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -113,9 +116,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0169-majority-element) |
 | [1763-longest-nice-substring](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [1763-longest-nice-substring](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/1763-longest-nice-substring) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vtu24990-wq/Applied-programming-skills-leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
